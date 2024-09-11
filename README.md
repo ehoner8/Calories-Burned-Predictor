@@ -14,6 +14,7 @@ App.py is the API for this model, and uses streamlit to provide easy user intera
 
 
 **Credits**
+
 https://github.com/siddhardhan23/multiple-disease-prediction-streamlit-app/blob/main/app.py 
 https://www.kaggle.com/datasets/fmendes/fmendesdat263xdemos 
 
